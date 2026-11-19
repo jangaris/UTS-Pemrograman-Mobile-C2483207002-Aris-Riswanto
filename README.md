@@ -17,6 +17,14 @@
 
 ---
 
+## Teknologi & Lingkungan Pengembangan
+
+- **Framework:** Flutter
+- **Bahasa Pemrograman:** Dart
+- **Dependensi:** Murni menggunakan Flutter Material SDK bawaan (tanpa package eksternal tambahan pada `pubspec.yaml`)
+- **Penyimpanan Data:** In-Memory State Management menggunakan `List<Tugas>` dan `setState()`
+- **IDE & Tools:** Visual Studio Code , Git & GitHub
+
 ## Daftar Fitur Utama
 
 1. **Ringkasan Status Tugas (Dashboard):** Menampilkan jumlah total tugas, tugas yang sudah selesai, dan tugas yang belum selesai secara _real-time_ pada halaman utama.
@@ -52,11 +60,11 @@ halamandetailtugas.dart     # Halaman detail tugas, tombol ubah, dan konfirmasi 
 
 1. **Clone repository ini:**
    ```bash
-   git clone https://github.com/[username-github-anda]/UTS-Pemrograman-Mobile-[NIM]-Aris-Riswanto.git
+   git clone https://github.com/jangaris/UTS-Pemrograman-Mobile-C2483207002-Aris-Riswanto.git
    ```
 2. **Masuk ke direktori proyek:**
    ```bash
-   cd UTS-Pemrograman-Mobile-[NIM]-Aris-Riswanto
+   cd UTS-Pemrograman-Mobile-C2483207002-Aris-Riswanto
    ```
 3. **Unduh dependensi bawaan Flutter:**
    ```bash
@@ -94,4 +102,4 @@ halamandetailtugas.dart     # Halaman detail tugas, tombol ubah, dan konfirmasi 
 
 Video demonstrasi proses pengembangan, penjelasan kode, dan pengujian seluruh fitur aplikasi **TugasKu** dapat diakses melalui tautan YouTube berikut:
 
-👉 **[Tonton Video Demonstrasi di YouTube](https://youtu.be/[ISIKAN-LINK-VIDEO-YOUTUBE-ANDA])**
+👉 **[Tonton Video Demonstrasi di YouTube](https://youtu.be/cXYOFv-bx9Y])**
