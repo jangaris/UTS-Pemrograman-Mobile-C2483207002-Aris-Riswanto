@@ -103,3 +103,4 @@ halamandetailtugas.dart     # Halaman detail tugas, tombol ubah, dan konfirmasi 
 Video demonstrasi proses pengembangan, penjelasan kode, dan pengujian seluruh fitur aplikasi **TugasKu** dapat diakses melalui tautan YouTube berikut:
 
 👉 **[Tonton Video Demonstrasi di YouTube](https://youtu.be/cXYOFv-bx9Y])**
+👉 **[Tonton Video livePengerjaan di YouTube](https://youtube.com/live/rwXVpa2sSwM])**
